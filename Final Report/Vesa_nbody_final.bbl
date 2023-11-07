@@ -1,0 +1,20 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Beckman} {et~al.}(2008){Beckman}, {Carretero}, \&
+  {Vazdekis}}]{mergers}
+{Beckman}, J., {Carretero}, C., \& {Vazdekis}, A. 2008, Chinese Journal of
+  Astronomy and Astrophysics Supplement, 8, 77
+
+\bibitem[{{Lin} {et~al.}(2008){Lin}, {Patton}, {Koo}, {Casteels}, {Conselice},
+  {Faber}, {Lotz}, {Willmer}, {Hsieh}, {Chiueh}, {Newman}, {Novak}, {Weiner},
+  \& {Cooper}}]{2008ApJ}
+{Lin}, L., {Patton}, D.~R., {Koo}, D.~C., {et~al.} 2008, Astrophysical Jounral,
+  681, 232
+
+\bibitem[{{Lotz} {et~al.}(2008){Lotz}, {Jonsson}, {Cox}, \&
+  {Primack}}]{2008MNRAS}
+{Lotz}, J.~M., {Jonsson}, P., {Cox}, T.~J., \& {Primack}, J.~R. 2008, Monthly
+  Notices of the Royal Astronomical Society, 391, 1137
+
+\end{thebibliography}

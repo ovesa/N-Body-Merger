@@ -1,0 +1,11 @@
+\select@language {english}
+\contentsline {section}{Abstract}{2}{section*.2}
+\contentsline {section}{Introduction}{3}{section*.3}
+\contentsline {section}{Methods and Tests}{4}{section*.4}
+\contentsline {section}{Analytical Estimates}{6}{section*.7}
+\contentsline {section}{Results}{9}{section*.13}
+\contentsline {subsection}{Merger 1}{10}{section*.14}
+\contentsline {subsection}{Merger 2}{12}{section*.17}
+\contentsline {subsection}{Main Results}{13}{section*.20}
+\contentsline {section}{Conclusion}{14}{section*.21}
+\contentsline {section}{Bibliography}{14}{section*.21}
